@@ -22,7 +22,7 @@ LEFT(<text>, <num_chars>)
 **Exemplo**
 
 ~~~py
-CONCATENATE(LEFT('Reseller'[ResellerName],LEFT(GeographyKey,3))
+CONCATENATE(LEFT('Reseller'[ResellerName], LEFT(GeographyKey,3))
 ~~~
 
 **O que a função LEN faz:**
@@ -38,5 +38,5 @@ LEN(<text>)
 **Exemplo**
 
 ~~~py
-LEN([AddressLine1])+LEN([AddressLin2])
+LEN([AddressLine1]) + LEN([AddressLin2])
 ~~~
