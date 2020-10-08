@@ -1,8 +1,8 @@
 Funções DAX (Data Analysis Expressions) utilizadas para a execução do dashboard:
 
-[Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Funcoes_DAX/blob/master/Relat%C3%B3rio%20de%20Notas%20Fiscais/Dashboard.jpg)
+[Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Funcoes__DAX/blob/main/Relat%C3%B3rio%20de%20Notas%20Fiscais/Dashboard.jpg)
 <br>
-<img heigth="550" src="https://github.com/romulovieira777/Power_BI_Funcoes_DAX/blob/master/Relat%C3%B3rio%20de%20Notas%20Fiscais/Dashboard.jpg"/>
+<img heigth="550" src="https://github.com/romulovieira777/Power_BI_Funcoes__DAX/blob/main/Relat%C3%B3rio%20de%20Notas%20Fiscais/Dashboard.jpg"/>
 <br/>
 
 **O que a função AND faz:**
