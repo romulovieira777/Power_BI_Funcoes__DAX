@@ -1,0 +1,6 @@
+cdProduto	nmProduto
+1	Cama
+2	Cadeira
+3	Sofá
+4	Mesa
+5	Poltrona
