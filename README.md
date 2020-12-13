@@ -10,4 +10,4 @@
 - [Gráfico Curva ABC](https://github.com/romulovieira777/Power_BI_Funcoes__DAX/tree/main/Gr%C3%A1fico%20Curva%20ABC)
 - [Obtendo Dados XML](https://github.com/romulovieira777/Power_BI_Funcoes__DAX/tree/main/Obtendo%20Dados%20XML)
 
-Link para o curso: https://impacta.com.br/online/Power-BI-Funcoes-DAX-na-Pratica-online.php
+Link para o curso: [Impacta Tecnologia](https://impacta.com.br/online/Power-BI-Funcoes-DAX-na-Pratica-online.php)
